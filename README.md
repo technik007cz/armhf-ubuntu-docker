@@ -1,8 +1,8 @@
 These are the Ubuntu Core images as [downloadable from Ubuntu][1]. See the [Ubuntu Core wiki page][2] for more information. The following Ubuntu versions will be built:
 
+* 18.04, bionic
+* 16.04, xenial
 * 14.04, trusty
-* 13.10, saucy
-* 12.04, precise
 
 The images were made using the script [build-all.sh](build-all.sh).
 
